@@ -14,7 +14,7 @@
 ![1207](https://user-images.githubusercontent.com/91932363/144980036-dd1d7ae4-c977-47e1-bc0e-52974de98718.JPG)
 
 **2. github repository**  
-레파지토리 주소: <http://example.com/>
+레파지토리 주소: <https://github.com/gayeonjeon/project1207>
 
 **3. git 사용해본 소감**   
 > 🙋‍♀️형상관리 도구 git을 사용하기 전과, 사용하고 나서 느낀점을 적어주세요.   
