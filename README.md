@@ -10,7 +10,8 @@
 
 **1. git version**   
 
-![깃 설치 버전](test.JPG)
+![깃 설치 버전]
+![1207](https://user-images.githubusercontent.com/91932363/144980036-dd1d7ae4-c977-47e1-bc0e-52974de98718.JPG)
 
 **2. github repository**  
 레파지토리 주소: <http://example.com/>
